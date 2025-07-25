@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;      /* Faz com que ocupem toda a tela */
+    margin: 0;         /* Remove espaçamento padrão */
+}
+
+body {
+    background-image: linear-gradient(to bottom, #031818, #040620);
+    font-family: "JetBrains Mono", monospace;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.introducao {
+    color: #ffff;
+    font-size: 18px;
+}
+
+.conteudo {
+    color: #ffff;
+    text-align: justify;
+    
+}
+
+.imagemCozinha {
+    text-align: center;
+}
