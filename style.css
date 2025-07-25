@@ -9,17 +9,6 @@ body {
     font-family: "JetBrains Mono", monospace;
     text-align: center;
     padding: 10px;
-    height: 100%;      /* Faz com que ocupem toda a tela */
-    margin: 0;         /* Remove espaçamento padrão */
-}
-
-body {
-    background-image: linear-gradient(to bottom, #031818, #040620);
-    font-family: "JetBrains Mono", monospace;
-    text-align: center;
-    padding: 10px;
-    margin: auto;
->>>>>>> 121971eca93fab80cee9fe85adb746724401fb1
 }
 
 .introducao {
@@ -35,4 +24,21 @@ body {
 
 .imagemCozinha {
     text-align: center;
+}
+
+.textoaposimagem {
+    color:#ffff;
+    font-size: 18px;
+    text-align: justify;
+}
+
+ol {
+    color: #ffff;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+h2 {
+    color: #ffff;
 }
