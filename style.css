@@ -9,7 +9,6 @@ body {
     font-family: "JetBrains Mono", monospace;
     text-align: center;
     padding: 10px;
-=======
     height: 100%;      /* Faz com que ocupem toda a tela */
     margin: 0;         /* Remove espaçamento padrão */
 }
@@ -20,7 +19,7 @@ body {
     text-align: center;
     padding: 10px;
     margin: auto;
->>>>>>> 121971eca93fab80cee9fe85adb746724401fb13
+>>>>>>> 121971eca93fab80cee9fe85adb746724401fb1
 }
 
 .introducao {
