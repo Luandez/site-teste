@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    margin: 0;       /* remove espaçamento padrão */
+}
+
+body {
+    background: url("imagens/catzito.jpg") no-repeat center center fixed;
+    background-size: cover;   /* Faz a imagem preencher toda a tela */
+    font-family: "JetBrains Mono", monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+.introducao {
+    color: #ffff;
+    font-size: 18px;
+}
+
+.conteudo {
+    color: #ffff;
+    text-align: justify;
+    
+}
+
+.imagemCozinha {
+    text-align: center;
+}
+
+.textoaposimagem {
+    color:#ffff;
+    font-size: 18px;
+    text-align: justify;
+}
+
+ol {
+    color: #ffff;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+h2 {
+    color: #ffff;
+}
